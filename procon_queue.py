@@ -2,7 +2,7 @@ import concurrent.futures
 import logging
 import queue
 import random
-import threading
+import download_websites
 import time
 
 def producer(queue, event):

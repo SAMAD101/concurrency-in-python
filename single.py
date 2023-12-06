@@ -1,6 +1,6 @@
 # single threaded
 import time
-from threading import Thread
+from download_websites import Thread
 
 COUNT = 50000000
 

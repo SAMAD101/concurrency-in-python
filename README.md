@@ -1,0 +1,2 @@
+Just a repository for my own personal use. Feel free to use it if you want to. \
+I made this to test out different python codes to learn Concurrent Programming (Threading, Asyncio, and Multiprocessing) in Python.
